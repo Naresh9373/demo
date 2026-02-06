@@ -1,2 +1,2 @@
 # demo
-this is demo to learn about repo
+this is demo to learn about repo.
